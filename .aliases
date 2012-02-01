@@ -1,2 +1,0 @@
-alias gau='git remote add upstream'
-alias gfu='git fetch upstream'
